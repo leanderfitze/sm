@@ -1,0 +1,13 @@
+/Users/assel/Documents/SecondMax/SecondMax/bin/Debug/netcoreapp3.1/SecondMax.deps.json
+/Users/assel/Documents/SecondMax/SecondMax/bin/Debug/netcoreapp3.1/SecondMax.runtimeconfig.json
+/Users/assel/Documents/SecondMax/SecondMax/bin/Debug/netcoreapp3.1/SecondMax.runtimeconfig.dev.json
+/Users/assel/Documents/SecondMax/SecondMax/bin/Debug/netcoreapp3.1/SecondMax.dll
+/Users/assel/Documents/SecondMax/SecondMax/bin/Debug/netcoreapp3.1/SecondMax.pdb
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.csproj.AssemblyReference.cache
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.AssemblyInfoInputs.cache
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.AssemblyInfo.cs
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.csproj.CoreCompileInputs.cache
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.dll
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.pdb
+/Users/assel/Documents/SecondMax/SecondMax/obj/Debug/netcoreapp3.1/SecondMax.genruntimeconfig.cache
